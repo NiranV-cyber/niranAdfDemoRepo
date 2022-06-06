@@ -1,0 +1,9 @@
+{
+	"name": "AdfNiran",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f986e4af-6d09-4a60-85c7-142e9af8e422",
+		"tenantId": "1fe672b5-241d-44c8-be3b-1d22174f6bce"
+	}
+}
